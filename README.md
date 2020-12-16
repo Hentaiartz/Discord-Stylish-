@@ -20,7 +20,7 @@ No hace falta tenerlo instalado. Solo le hace falta tener una cuenta de discord.
 No pueden banearte por esto ya que no rompe el **TOS** de discord.
 
 ### Donde puedo encontrar los temas?
-En el servidor de discord: 
+En el servidor de discord: https://discord.gg/V6CH89Nvdq
 
 ### Puedo crear mis propios temas?
 Claro que si
