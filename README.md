@@ -1,1 +1,1 @@
-# Discord-Stylish
+# Discord Stylish
