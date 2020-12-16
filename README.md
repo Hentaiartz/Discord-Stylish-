@@ -1,1 +1,1 @@
-<h1Discord Stylish</h1>	
+<h1>Discord Stylish</h1>	
