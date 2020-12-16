@@ -27,7 +27,7 @@ Claro que si
 
 <h2>Informacion</h2>
 
-Discord link: https://discord.com/
-Stylish link: https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe
+Discord link: https://discord.com/ .
+Stylish link: https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe .
 Tutorial link:
-Discord server: https://discord.gg/V6CH89Nvdq
+Discord server: https://discord.gg/V6CH89Nvdq .
