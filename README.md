@@ -8,7 +8,7 @@ Puedes instalar **Stylish** desde este link: https://chrome.google.com/webstore/
 ### Como puedo instalar Stylish en discord?
 La manera mas facil es añadiendo la extension y activarla en discord web, pero hay mejores formas para hacerlo desde el scritorio y mucho mas estetico.
 
-Aqui tienes un pequeño tutorial de como instalarlo y utilizarlo: **link**
+Aqui tienes un pequeño tutorial de como instalarlo y utilizarlo: **https://www.youtube.com/watch?v=Vmt1xhC_Yrs&feature=youtu.be** 
 
 
 <h2>Preguntas</h2>
@@ -29,5 +29,5 @@ Claro que si
 
 Discord link: https://discord.com/ .
 Stylish link: https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe .
-Tutorial link:
+Tutorial link: https://www.youtube.com/watch?v=Vmt1xhC_Yrs&feature=youtu.be
 Discord server: https://discord.gg/V6CH89Nvdq .
